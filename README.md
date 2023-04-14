@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkoLivancic
 - 👀 I’m interested in AWS, Python, Bash Scripting and DevOps practices and culture.
 - 🌱 I’m currently learning Python and preparing for my AWS SysOps Admin cert. 
-- 💞️ I’m looking to collaborate on projects involving AWS migration and administration, automation as well as containerization.
+- 💞️ I’m looking to collaborate on projects involving AWS automation and administration, as well as serverless.
 - 📫 How to reach me: livancicmarko@gmail.com | Twitter: @marko_livancic | linkedin: https://www.linkedin.com/in/marko-livancic-507794155/
